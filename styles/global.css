@@ -50,6 +50,11 @@ img{
     margin-inline: auto;
 }
 
+main{
+    margin-top: 40px;
+    gap: 80px;
+}
+
 .content-tag{
     display:inline-block;
     background-color: var(--brand-color-dark);
