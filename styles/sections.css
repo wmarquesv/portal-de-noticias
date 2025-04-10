@@ -126,4 +126,10 @@ aside{
         align-items: center;
         gap: 8px;
     }
+
+    img{
+        width: 97px;
+        aspect-ratio: 1/1;
+        object-fit: cover;
+    }
 }

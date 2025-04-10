@@ -38,6 +38,10 @@
     font: var(--text-sm);
 }
 
+.text-xsm{
+    font: var(--text-xsm);
+}
+
 .flex{
     display: flex;
 }

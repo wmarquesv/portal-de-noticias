@@ -18,7 +18,8 @@
     --h3: 800 14px/140% var(--font-family);
     --text-span: 600 14px/145% var(--font-family);
     --text: 400 16px/140% var(--font-family);
-    --text-sm: 400 14px/160% var(--font-family)
+    --text-sm: 400 14px/160% var(--font-family);
+    --text-xsm: 400 13px/160% var(--font-family)
 }
 
 body{
@@ -65,6 +66,7 @@ main{
 }
 
 .content-tag{
+    max-width: fit-content;
     display:inline-block;
     background-color: var(--brand-color-dark);
     padding: 4px 8px;
